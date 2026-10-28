@@ -1,0 +1,39 @@
+# Video and large binaries
+*.mp4
+*.mov
+*.MP4
+*.MOV
+footage/
+raw/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Slicer and CAD temp
+*.gcode
+*.bgcode
+*.FCStd1
+*~
+result.json
+
+# Python, Rust, firmware builds
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+target/
+.pio/
+
+# Local data and secrets: never commit (may hold donor details or keys)
+secrets.h
+*.sqlite
+*.sqlite3
+*.db
+*.db-journal
+*.db-wal
+**/data/local/
+*.key
+**/keys/
+.env
