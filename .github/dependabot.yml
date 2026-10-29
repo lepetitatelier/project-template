@@ -1,0 +1,12 @@
+# Library and tool updates. Monthly, grouped into one pull request per ecosystem (big version jumps apart).
+# Security fixes come as soon as they're known, whatever this says.
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: monthly
+    labels: [dependencies]
+    groups:
+      actions:
+        patterns: ["*"]
