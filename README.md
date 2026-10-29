@@ -4,7 +4,7 @@
 **Started:** YYYY-MM-DD
 **Runs at:** tenancy / home garage / outdoors (see `01-workshop/site-and-heritage.md`)
 **Budget (low / recommended / comfort):** NZD … / … / …
-**Licence:** CERN-OHL-S v2 (hardware), CC BY-SA 4.0 (docs), GPL-3.0 or MIT (firmware).
+**Licence:** CERN-OHL-S v2 (hardware), CC BY-SA 4.0 (docs), GPL-3.0 or MIT (firmware). Full terms: [LICENSE.md](LICENSE.md).
 If built on someone else's design, the upstream licence wins: see `UPSTREAM.md` and `99-admin/licensing.md`.
 
 ## How to use this template
